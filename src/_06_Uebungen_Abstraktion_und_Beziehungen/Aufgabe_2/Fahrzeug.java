@@ -1,16 +1,9 @@
-package _06_Uebungen_Abstraktion_und_Beziehungen;
+package _06_Uebungen_Abstraktion_und_Beziehungen.Aufgabe_2;
 
-class   Fahrzeug {
+abstract class Fahrzeug {
     private String fahrzeugart;
     private int anzahlRaeder;
     private Fahrzeughalter halter;
-
-    public Fahrzeug(Fahrzeughalter halter, int anzahlRaeder) {
-        this.fahrzeugart = "allgemeines Fahrzeug";
-        this.anzahlRaeder = anzahlRaeder;
-        this.halter = halter;
-        halter.setFahrzeug (this);
-    }
 
     public Fahrzeug(Fahrzeughalter halter, String fahrzeugart, int anzahlRaeder) {
         this.fahrzeugart = fahrzeugart;
@@ -30,6 +23,6 @@ class   Fahrzeug {
 
     @Override
     public String toString() {
-        return "Dieses Fahrzeug ist ein " + this.fahrzeugart + " mit " + this.anzahlRaeder + " Rädern. Es gehört " + this.halter.getHalter ();
+        return "Dieses Fahrzeug ist ein " + this.fahrzeugart + " mit " + this.anzahlRaeder + " Rädern. Es gehört " + this.halter;
     }
 }

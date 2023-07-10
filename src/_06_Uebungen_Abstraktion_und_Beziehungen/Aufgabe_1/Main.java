@@ -1,4 +1,4 @@
-package _06_Uebungen_Abstraktion_und_Beziehungen;
+package _06_Uebungen_Abstraktion_und_Beziehungen.Aufgabe_1;
 
 class Main {
     public static void main(String[] args) {
