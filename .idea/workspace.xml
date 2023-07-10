@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmieren 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Uebungen_Einfuehrung/01 Uebungen Einfuehrung.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Uebungen_Einfuehrung/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Uebungen_Einfuehrung/Ort.java" afterDir="false" />
-    </list>
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="01 Uebungen Einfuehrung" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +35,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/Programmieren 2/src/_01_Uebungen_Einfuehrung",
     "node.js.detected.package.eslint": "true",
@@ -67,11 +59,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688992475615</updated>
-      <workItem from="1688992475983" duration="695000" />
+      <workItem from="1688992475983" duration="884000" />
     </task>
+    <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
+      <created>1688993312714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688993312714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01 Uebungen Einfuehrung" />
+    <option name="LAST_COMMIT_MESSAGE" value="01 Uebungen Einfuehrung" />
   </component>
 </project>
