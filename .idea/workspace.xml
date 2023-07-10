@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="01 Uebungen Einfuehrung">
-      <change afterPath="$PROJECT_DIR$/src/_03_Uebungen_Klassen_und_Objekte/03 Uebungen Klassen und Objekte.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Uebungen_Klassen_und_Objekte/Bestellposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Uebungen_Klassen_und_Objekte/Bestellung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Uebungen_Klassen_und_Objekte/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Uebungen_Klassen_und_Objekte/Ware.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="03 Uebungen Klassen und Objekte">
+      <change afterPath="$PROJECT_DIR$/src/_04_Uebungen_Klassenattribute_String/04 Uebungen Klassenattribute String.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Uebungen_Klassenattribute_String/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Uebungen_Klassenattribute_String/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Uebungen_Klassenattribute_String/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Uebungen_Klassenattribute_String/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Uebungen_Klassenattribute_String/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Uebungen_Klassenattribute_String/Ware.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Uebungen_Einfuehrung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Uebungen_Einfuehrung/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_03_Uebungen_Klassen_und_Objekte",
+    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_04_Uebungen_Klassenattribute_String",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_04_Uebungen_Klassenattribute_String" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_03_Uebungen_Klassen_und_Objekte" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\Programmieren 2\src\_01_Uebungen_Einfuehrung" />
     </key>
@@ -71,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688992475615</updated>
       <workItem from="1688992475983" duration="884000" />
-      <workItem from="1688993472513" duration="2140000" />
+      <workItem from="1688993472513" duration="7699000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688993312714</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="03 Uebungen Klassen und Objekte">
+      <created>1688998825166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688998825166</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01 Uebungen Einfuehrung" />
-    <option name="LAST_COMMIT_MESSAGE" value="01 Uebungen Einfuehrung" />
+    <MESSAGE value="03 Uebungen Klassen und Objekte" />
+    <option name="LAST_COMMIT_MESSAGE" value="03 Uebungen Klassen und Objekte" />
   </component>
 </project>
