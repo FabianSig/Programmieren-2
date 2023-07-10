@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="04 Uebungen Klassenattribute String">
-      <change afterPath="$PROJECT_DIR$/src/_05_Uebungen_Vererbung/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_Uebungen_Vererbung/Pkw.java" afterDir="false" />
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="05 Uebungen Vererbung">
+      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/06 Uebungen Abstraktion und Beziehungen.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Fahrzeug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Fahrzeughalter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Motorrad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Pkw.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Uebungen_Vererbung/Fahrzeug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Uebungen_Vererbung/Fahrzeug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Uebungen_Vererbung/Motorrad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Uebungen_Vererbung/Motorrad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_05_Uebungen_Vererbung",
+    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_06_Uebungen_Abstraktion_und_Beziehungen",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +56,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_06_Uebungen_Abstraktion_und_Beziehungen" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_05_Uebungen_Vererbung" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_04_Uebungen_Klassenattribute_String" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_03_Uebungen_Klassen_und_Objekte" />
@@ -69,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688992475615</updated>
       <workItem from="1688992475983" duration="884000" />
-      <workItem from="1688993472513" duration="8460000" />
+      <workItem from="1688993472513" duration="10333000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689004410077</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="05 Uebungen Vererbung">
+      <created>1689004962004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689004962004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +123,7 @@
     <MESSAGE value="01 Uebungen Einfuehrung" />
     <MESSAGE value="03 Uebungen Klassen und Objekte" />
     <MESSAGE value="04 Uebungen Klassenattribute String" />
-    <option name="LAST_COMMIT_MESSAGE" value="04 Uebungen Klassenattribute String" />
+    <MESSAGE value="05 Uebungen Vererbung" />
+    <option name="LAST_COMMIT_MESSAGE" value="05 Uebungen Vererbung" />
   </component>
 </project>
