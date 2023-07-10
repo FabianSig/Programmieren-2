@@ -1,4 +1,8 @@
 package _05_Uebungen_Vererbung;
 
-public class Motorrad {
+class Motorrad extends Fahrzeug{
+
+    public Motorrad() {
+        super("Motorrad", 2);
+    }
 }
