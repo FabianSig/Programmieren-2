@@ -4,29 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="06 Uebungen Abstraktion und Beziehungen Aufgabe 2">
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_2/Fahrzeug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_2/Fahrzeughalter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_2/Firma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_2/Motorrad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_2/Pkw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Fahrzeug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Fahrzeughalter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Firma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/JuristischePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Motorrad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/NatuerlichePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Pkw.java" afterDir="false" />
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="06 Uebungen Abstraktion und Beziehungen Aufgabe 4">
+      <change afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Kino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/KinoDateiUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/KinoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Testklausur_Java_TINF18D_Aufgaben.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Fahrzeug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_1/Fahrzeug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Fahrzeughalter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_1/Fahrzeughalter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Motorrad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_1/Motorrad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Pkw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_1/Pkw.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4",
+    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_00_Probeklausur_Light",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,11 +57,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_00_Probeklausur_Light" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_06_Uebungen_Abstraktion_und_Beziehungen\Aufgabe_4" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_06_Uebungen_Abstraktion_und_Beziehungen\Aufgabe_2" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_06_Uebungen_Abstraktion_und_Beziehungen" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_05_Uebungen_Vererbung" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_04_Uebungen_Klassenattribute_String" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -118,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689004962004</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="06 Uebungen Abstraktion und Beziehungen Aufgabe 4">
+      <created>1689012358327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689012358327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="06 Uebungen Abstraktion und Beziehungen Aufgabe 4">
+      <created>1689012399741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689012399741</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +140,7 @@
     <MESSAGE value="04 Uebungen Klassenattribute String" />
     <MESSAGE value="05 Uebungen Vererbung" />
     <MESSAGE value="06 Uebungen Abstraktion und Beziehungen Aufgabe 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="06 Uebungen Abstraktion und Beziehungen Aufgabe 2" />
+    <MESSAGE value="06 Uebungen Abstraktion und Beziehungen Aufgabe 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="06 Uebungen Abstraktion und Beziehungen Aufgabe 4" />
   </component>
 </project>
