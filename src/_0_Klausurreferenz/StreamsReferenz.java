@@ -10,6 +10,12 @@ import java.io.IOException;
 
 class StreamsReferenz {
     public static void main(String[] args) throws IOException {
+
+        // s = s.stream ().filter(x -> x.matches ("[a-zA-z]+")).collect(Collectors.toList());
+
+        // s = s.stream ().map (str -> str.split(" ")[1]).sorted ().collect(Collectors.toList());
+
+
         // 1. Integer Stream
         IntStream
                 .range(1, 10)

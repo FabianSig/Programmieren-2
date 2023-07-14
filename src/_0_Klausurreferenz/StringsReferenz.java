@@ -4,6 +4,19 @@ public class StringsReferenz {
 
     public static void main(String[] args) {
 
+        // Wrapper
+
+        int a = Integer.parseInt("42"); // a = 42
+        int max = Integer.max(23, 42); // max = 42
+        int min = Integer.min(23, 42); // min = 23
+        int sig = Integer.signum(-42); // sig = -1
+        boolean c = Character.isAlphabetic('a'); // true
+        boolean s = Character.isWhitespace('\n'); // true
+        boolean m = Character.isMirrored('{'); // true { -> }
+        String t = Boolean.toString(true); // "true"
+        boolean b = Boolean.parseBoolean("True"); // true
+        boolean f = Boolean.parseBoolean("yes"); // false
+
         // ▪ Erzeugung
 
         String s1 = new String(); // leerer String
