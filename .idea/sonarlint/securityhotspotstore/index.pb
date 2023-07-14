@@ -2,8 +2,6 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-C
-Programmieren 2.iml,d\3\d3d22d33422f0e874684c0942ee194f6e6dba7ed
 U
 %src/_01_Uebungen_Einfuehrung/Ort.java,c\8\c8520ed8bbf4eff5e5bac392f3035c6595dccfc5
 h
@@ -18,10 +16,6 @@ i
 9src/_03_Uebungen_Klassen_und_Objekte/Bestellposition.java,d\d\ddedbb2f079010e617ea7b6b3f1b274d5bba1410
 d
 4src/_03_Uebungen_Klassen_und_Objekte/Bestellung.java,4\7\47c23ff3810c01838c48ae03a31f3813690d03a2
-]
--.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 V
 &src/_01_Uebungen_Einfuehrung/Main.java,b\2\b2f929c536ec36516fbf0dedc100fe3c73a2296c
 x
@@ -94,17 +88,55 @@ Dsrc/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Fahrzeug.java,9\e\9ee68
 Msrc/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/NatuerlichePerson.java,3\b\3b9edfa902905deab79b5dc9ce85cd59fcb4dbf8
 t
 Dsrc/_06_Uebungen_Abstraktion_und_Beziehungen/Aufgabe_4/Motorrad.java,b\a\ba0846aa1f5aec9edb183aeb3b66db8dbf334e5c
+C
+Programmieren 2.iml,d\3\d3d22d33422f0e874684c0942ee194f6e6dba7ed
+„
+Tsrc/_08_Uebungen_Zugriffsrechte_Exceptions/08 Uebungen Zugriffsrechte Exceptions.pdf,f\a\fa3bf879d2f7f952868ba8ab0d92b66b065b457a
 p
 @src/_00_Probeklausur_Light/Testklausur_Java_TINF18D_Aufgaben.pdf,d\1\d1ab25fe36667935c92263c0bd03cdd6333d84fb
-T
-$src/_00_Probeklausur_Light/Kino.java,5\7\5751b32fe20a869bd36e65c03c869873e41b8f0f
-[
-+src/_00_Probeklausur_Light/KinoFactory.java,2\0\20900ea0d9d66909fedce4f6c41ea3281a2b5374
-T
-$src/_00_Probeklausur_Light/Film.java,9\8\9809b9d3acc7d4aaf1abc3d66e1a96c10b810e59
-]
--src/_00_Probeklausur_Light/KinoDateiUtil.java,0\a\0a9147d0911482df650186c69df272913de0fea0
-U
-%src/_00_Probeklausur_Light/Start.java,0\4\04dd4b6a2141570c586eccfab75254922e882630
 K
 src/_000_TestCode/Main.java,5\6\566abc14797575e23268cf0ffd8f066e931b33c5
+{
+Ksrc/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/Bestellposition.java,3\e\3ed0ef85017808e5aa0630ae6c684b23fce12dbb
+x
+Hsrc/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/Kundenrabatt.java,b\9\b99d209eca8c18273a88335913fabce712414b40
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+[
++src/_0_Klausurrefetrenz/BeispielObjekt.java,5\b\5b445e675b7b35e5a19f88b94bbc64024d932a50
+Š
+Zsrc/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/WareExceptionIllegalWarenpreis.java,8\e\8e5a14c8908843bd2f223afeb7377379a6fa2375
+‹
+[src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/WareExceptionIllegalWarennummer.java,e\6\e65f0204db74d48c0683779baf23aec00c632b31
+y
+Isrc/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/WareException.java,0\0\00eab15ead5f318511a847cd312bd161d1590afe
+z
+Jsrc/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/AenderbareWare.java,1\8\180553311c8d919752848f62968e19f13e5996d7
+p
+@src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/Ware.java,b\5\b5eaa43f08857445079e0f878a1c94dd2a348dc2
+v
+Fsrc/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/Bestellung.java,c\5\c5ea5f88b2e7a46f1da4e73c297c1630c631bb93
+p
+@src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/Main.java,6\a\6aafb3f1af101359915de8589db91f27b222b833
+q
+Asrc/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_2_4/Kunde.java,9\6\961828bf7f9c59d68bb38723793c0e9d3e9b2695
+U
+%src/_00_Probeklausur_Light/Start.java,0\4\04dd4b6a2141570c586eccfab75254922e882630
+[
++src/_00_Probeklausur_Light/KinoFactory.java,2\0\20900ea0d9d66909fedce4f6c41ea3281a2b5374
+9
+	bands.txt,0\6\06a34af02e48226e08d8972f1b9c35d289b14f94
+8
+data.txt,b\1\b12c19770204e84412a803b5e9fea02307e3379c
+U
+%src/_0_Klausurrefetrenz/Referenz.java,6\d\6dbbd155172077514564d7f52947ba4b5836d971
+]
+-src/_00_Probeklausur_Light/KinoDateiUtil.java,0\a\0a9147d0911482df650186c69df272913de0fea0
+T
+$src/_00_Probeklausur_Light/Film.java,9\8\9809b9d3acc7d4aaf1abc3d66e1a96c10b810e59
+\
+,src/_0_Klausurrefetrenz/StreamsReferenz.java,4\a\4a8db99a0f70737e47206fe52a2e4b139412c53e
+T
+$src/_00_Probeklausur_Light/Kino.java,5\7\5751b32fe20a869bd36e65c03c869873e41b8f0f
