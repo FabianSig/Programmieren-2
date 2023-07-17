@@ -4,23 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="StringReferenz">
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/AenderbareWare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/BestellException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/Bestellposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/Bestellung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/Kunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/Kundenrabatt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/Ware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/WareException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/WareExceptionIllegalWarennummer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5/WareExceptionIllegalWarenpreis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/CollectionsReferenz.java" afterDir="false" />
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="_08_Uebungen_Zugriffsrechte_Exceptions">
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/Fahrzeughalter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/AenderbareWare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/BestellException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/WareException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/WareExceptionIllegalWarennummer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/WareExceptionIllegalWarenpreis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/WarenBezeichnungComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/WarenPreisComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_2/Warenkatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/GenericsReferenz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_0_Klausurreferenz/ExceptionsReferenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/ExceptionsReferenz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_0_Klausurreferenz/StreamsReferenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/StreamsReferenz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_0_Klausurreferenz/StringsReferenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/StringsReferenz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Fahrzeug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/Fahrzeug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Fahrzeughalter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Firma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/Firma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/JuristischePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/JuristischePerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Motorrad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/Motorrad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/NatuerlichePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/NatuerlichePerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Pkw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Uebungen_Collections/Aufgabe_1/Pkw.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +65,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_08_Uebungen_Zugriffsrechte_Exceptions/Aufgabe_5",
+    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_09_Uebungen_Collections/Aufgabe_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +77,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_09_Uebungen_Collections\Aufgabe_2" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_09_Uebungen_Collections" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_08_Uebungen_Zugriffsrechte_Exceptions\Aufgabe_5" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_08_Uebungen_Zugriffsrechte_Exceptions\Aufgabe_2" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_00_Probeklausur_Light" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_06_Uebungen_Abstraktion_und_Beziehungen\Aufgabe_4" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_06_Uebungen_Abstraktion_und_Beziehungen\Aufgabe_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_00_Probeklausur_Light" />
@@ -91,7 +101,7 @@
       <workItem from="1688993472513" duration="10333000" />
       <workItem from="1689237017249" duration="2113000" />
       <workItem from="1689263200100" duration="10621000" />
-      <workItem from="1689317593073" duration="20319000" />
+      <workItem from="1689317593073" duration="31716000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -149,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689340133780</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="_08_Uebungen_Zugriffsrechte_Exceptions">
+      <created>1689355395129</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689355395129</updated>
+    </task>
+    <task id="LOCAL-00010" summary="_08_Uebungen_Zugriffsrechte_Exceptions">
+      <created>1689355544510</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689355544510</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +200,7 @@
     <MESSAGE value="_00_Probeklausur_Light" />
     <MESSAGE value="_00_Probeklausur_Light streams" />
     <MESSAGE value="StringReferenz" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringReferenz" />
+    <MESSAGE value="_08_Uebungen_Zugriffsrechte_Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="_08_Uebungen_Zugriffsrechte_Exceptions" />
   </component>
 </project>

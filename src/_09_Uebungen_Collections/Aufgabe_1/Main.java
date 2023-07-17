@@ -1,4 +1,4 @@
-package _09_Uebungen_Collections;
+package _09_Uebungen_Collections.Aufgabe_1;
 
 class Main {
     public static void main(String[] args) {
@@ -17,7 +17,7 @@ class Main {
 
         for (int i = 0; i < halter.length; i++){
 
-            System.out.println ("Das Fahrzeug von " + halter[i] + " ist ein " + halter[i].getFahrzeug ().getFahrzeugart () + " mit " + halter[i].getFahrzeug ().getAnzahlRaeder () + " Rädern.");
+            System.out.println ("Das Fahrzeug von " + halter[i] + " ist ein " + halter[i].getFahrzeug ().get (0).getFahrzeugart () + " mit " + halter[i].getFahrzeug ().get (0).getAnzahlRaeder () + " Rädern.");
             System.out.println (fahrzeuge[i]);
             System.out.println ();
         }

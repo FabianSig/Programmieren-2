@@ -1,4 +1,4 @@
-package _09_Uebungen_Collections;
+package _09_Uebungen_Collections.Aufgabe_1;
 
 abstract class Fahrzeug {
     private String fahrzeugart;
@@ -9,7 +9,7 @@ abstract class Fahrzeug {
         this.fahrzeugart = fahrzeugart;
         this.anzahlRaeder = anzahlRaeder;
         this.halter = halter;
-        halter.setFahrzeug (this);
+        halter.addFahrzeug (this);
 
     }
 

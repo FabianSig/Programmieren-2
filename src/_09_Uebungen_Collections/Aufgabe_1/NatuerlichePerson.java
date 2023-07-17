@@ -1,14 +1,19 @@
-package _09_Uebungen_Collections;
+package _09_Uebungen_Collections.Aufgabe_1;
+
+import java.util.ArrayList;
+import java.util.List;
 
 class NatuerlichePerson extends Person implements Fahrzeughalter {
     private String vorname;
     private String nachname;
-    private Fahrzeug fahrzeug;
+    private List<Fahrzeug> fahrzeuge;
 
     public NatuerlichePerson(String vorname, String nachname) {
         super();
         this.vorname = vorname;
         this.nachname = nachname;
+        this.fahrzeuge = new ArrayList<> ();
+
     }
 
 
@@ -18,12 +23,12 @@ class NatuerlichePerson extends Person implements Fahrzeughalter {
     }
 
     @Override
-    public Fahrzeug getFahrzeug() {
-        return fahrzeug;
+    public List<Fahrzeug> getFahrzeug() {
+        return fahrzeuge;
     }
 
     @Override
-    public void setFahrzeug(Fahrzeug fahrzeug) {
-        this.fahrzeug = fahrzeug;
+    public void addFahrzeug(Fahrzeug fahrzeug) {
+        this.fahrzeuge.add (fahrzeug);
     }
 }
