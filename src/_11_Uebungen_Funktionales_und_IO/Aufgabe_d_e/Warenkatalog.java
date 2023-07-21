@@ -1,4 +1,4 @@
-package _11_Uebungen_Funktionales_und_IO.Aufgabe_2_c;
+package _11_Uebungen_Funktionales_und_IO.Aufgabe_d_e;
 
 import java.util.*;
 import java.util.function.Predicate;
@@ -65,6 +65,14 @@ class Warenkatalog  implements Iterable<Ware>{
 
     public List<Ware> filtern(Predicate<Ware> bedingung){
         return this.katalog.values ().stream ().filter (bedingung).collect(Collectors.toList());
+    }
+
+    public List<String> WarenNachBezeichnung(){
+        return this.katalog.values ().stream ().map (Ware::getBezeichnung).distinct ().collect(Collectors.toList());
+    }
+
+    public boolean warenVorhanden(Predicate<Ware> bedingung){
+        return this.katalog.values ().stream ().anyMatch (bedingung);
     }
 
     @Override

@@ -1,4 +1,4 @@
-package _11_Uebungen_Funktionales_und_IO.Aufgabe_2_c;
+package _11_Uebungen_Funktionales_und_IO.Aufgabe_d_e;
 
 class Main {
 
@@ -28,15 +28,19 @@ class Main {
         w = new Ware("03073104", "Ersatzkette", 8.00, Warengruppe.FAHRRADBEDARF);
         katalog.fuegeWareEin(w);
 
-        // Und jetzt nur noch der Fahrradbedarf über 10 EUR
+        w = new Ware("03073105", "Ersatzkette", 7.45, Warengruppe.FAHRRADBEDARF);
+        katalog.fuegeWareEin(w);
 
         System.out.println();
-        System.out.println("Gruppiert nach Fahrradbedarf");
+        System.out.println("Nur die Bezeichnungen");
 
-        for (Ware ware : katalog.filtern(ware -> ware.getGruppe() == Warengruppe.FAHRRADBEDARF && ware.getPreis() > 10.0))
+        for (String bezeichnung : katalog.WarenNachBezeichnung ())
         {
-            System.out.println(ware);
+            System.out.println(bezeichnung);
         }
+
+        System.out.println();
+        System.out.println(katalog.warenVorhanden(ware -> ware.getPreis() > 18.0));
 
     }
 
