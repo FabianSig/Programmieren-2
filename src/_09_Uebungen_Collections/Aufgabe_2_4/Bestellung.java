@@ -1,4 +1,4 @@
-package _09_Uebungen_Collections.Aufgabe_2;
+package _09_Uebungen_Collections.Aufgabe_2_4;
 
 import java.util.HashSet;
 

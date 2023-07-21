@@ -1,4 +1,4 @@
-package _09_Uebungen_Collections.Aufgabe_2;
+package _09_Uebungen_Collections.Aufgabe_2_4;
 
 class Bestellposition {
     private Ware ware;

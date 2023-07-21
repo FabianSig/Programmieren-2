@@ -1,4 +1,4 @@
-package _09_Uebungen_Collections.Aufgabe_2;
+package _09_Uebungen_Collections.Aufgabe_2_4;
 
 class AenderbareWare extends Ware {
     public AenderbareWare(String nummer, String bezeichnung, double preis) throws WareExceptionIllegalWarennummer {

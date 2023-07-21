@@ -1,9 +1,6 @@
-package _09_Uebungen_Collections.Aufgabe_2;
+package _09_Uebungen_Collections.Aufgabe_2_4;
 
-import java.util.Collection;
 import java.util.Comparator;
-import java.util.Map;
-import java.util.TreeMap;
 
 class WarenBezeichnungComparator implements Comparator {
 
