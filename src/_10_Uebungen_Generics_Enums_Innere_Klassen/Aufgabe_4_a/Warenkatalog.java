@@ -1,4 +1,4 @@
-package _10_Uebungen_Generics_Enums_Innere_Klassen.Aufgabe_4;
+package _10_Uebungen_Generics_Enums_Innere_Klassen.Aufgabe_4_a;
 
 import java.util.*;
 
@@ -12,6 +12,27 @@ class Warenkatalog  implements Iterable<Ware>{
         this.katalog = new TreeMap<> ();
         this.kriterien = new ArrayList<> ();
         this.kriterien.add(Sortierkriterium.NACH_NUMMER);
+    }
+
+    private static class WarenNummerComparator implements Comparator<Ware>{
+        @Override
+        public int compare(Ware w1, Ware w2) {
+            return w1.getBezeichnung ().compareTo (w2.getBezeichnung ());
+        }
+    }
+
+    private static class WarenBezeichnungComparator implements Comparator<Ware> {
+        @Override
+        public int compare(Ware w1, Ware w2){
+            return w1.getBezeichnung ().compareTo (w2.getBezeichnung ());
+        }
+    }
+
+    private static class WarenPreisComparator implements Comparator<Ware> {
+        @Override
+        public int compare(Ware w1, Ware w2) {
+            return (int) (w1.getPreis () - w2.getPreis ());
+        }
     }
 
     static{
@@ -40,7 +61,7 @@ class Warenkatalog  implements Iterable<Ware>{
 
     public Collection<Ware> alleWaren()
     {
-        List<Ware> liste = new ArrayList<Ware>(katalog.values());
+        List<Ware> liste = new ArrayList<>(katalog.values());
 
         Comparator<Ware> comparator = getComparator();
         liste.sort(comparator);
@@ -51,7 +72,7 @@ class Warenkatalog  implements Iterable<Ware>{
         return this.katalog.keySet ();
     }
 
-    public void setSortierkriterium(Sortierkriterium ... kriterium){
+    public void setSortierkriterium(Sortierkriterium... kriterium){
         this.kriterien = Arrays.asList (kriterium);
     }
 

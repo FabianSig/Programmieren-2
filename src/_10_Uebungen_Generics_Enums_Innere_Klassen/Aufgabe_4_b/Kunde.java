@@ -1,4 +1,4 @@
-package _10_Uebungen_Generics_Enums_Innere_Klassen.Aufgabe_4;
+package _10_Uebungen_Generics_Enums_Innere_Klassen.Aufgabe_4_b;
 
 class Kunde {
     private String vorname;

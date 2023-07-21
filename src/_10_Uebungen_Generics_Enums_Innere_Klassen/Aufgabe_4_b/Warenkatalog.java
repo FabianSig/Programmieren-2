@@ -1,4 +1,4 @@
-package _10_Uebungen_Generics_Enums_Innere_Klassen.Aufgabe_3;
+package _10_Uebungen_Generics_Enums_Innere_Klassen.Aufgabe_4_b;
 
 import java.util.*;
 
@@ -14,14 +14,27 @@ class Warenkatalog  implements Iterable<Ware>{
         this.kriterien.add(Sortierkriterium.NACH_NUMMER);
     }
 
-
-
     static{
         COMPARATORS = new HashMap<Sortierkriterium, Comparator<Ware>>();
 
-        COMPARATORS.put(Sortierkriterium.NACH_PREIS, new WarenPreisComparator());
-        COMPARATORS.put(Sortierkriterium.NACH_BEZEICHNUNG, new WarenBezeichnungComparator());
-        COMPARATORS.put(Sortierkriterium.NACH_NUMMER, new WarenNummerComparator());
+        COMPARATORS.put(Sortierkriterium.NACH_PREIS, new Comparator<Ware> (){
+            @Override
+            public int compare(Ware w1, Ware w2) {
+                return (int) (w1.getPreis () - w2.getPreis ());
+            }
+        });
+        COMPARATORS.put(Sortierkriterium.NACH_BEZEICHNUNG, new Comparator<Ware> (){
+            @Override
+            public int compare(Ware w1, Ware w2) {
+                return w1.getBezeichnung ().compareTo (w2.getBezeichnung ());
+            }
+        });
+        COMPARATORS.put(Sortierkriterium.NACH_NUMMER, new Comparator<Ware> (){
+            @Override
+            public int compare(Ware w1, Ware w2) {
+                return w1.getBezeichnung ().compareTo (w2.getBezeichnung ());
+            }
+        });
     }
 
     public void fuegeWareEin(Ware ware){
@@ -42,7 +55,7 @@ class Warenkatalog  implements Iterable<Ware>{
 
     public Collection<Ware> alleWaren()
     {
-        List<Ware> liste = new ArrayList<Ware>(katalog.values());
+        List<Ware> liste = new ArrayList<>(katalog.values());
 
         Comparator<Ware> comparator = getComparator();
         liste.sort(comparator);
@@ -56,6 +69,8 @@ class Warenkatalog  implements Iterable<Ware>{
     public void setSortierkriterium(Sortierkriterium ... kriterium){
         this.kriterien = Arrays.asList (kriterium);
     }
+
+
 
     @Override
     public Iterator<Ware> iterator() {
