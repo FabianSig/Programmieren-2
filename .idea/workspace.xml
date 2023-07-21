@@ -4,16 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Collections">
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Generics Zoo">
       <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/10 Uebungen Generics Enums Innere Klassen.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_2/Eisbaer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_2/Tier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_2/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Eisbaer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_1_2/Eisbaer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_1_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_1_2/Tier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_1_2/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_3/Eisbaer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_3/Tier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_3/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/WarenBezeichnungComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/WarenPreisComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_1_Teil_4/Warenkatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/WarenBezeichnungComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/WarenPreisComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2/Warenkatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Kundenrabatt.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Tier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Sortierkriterium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/WarenBezeichnungComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/WarenNummerComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/WarenPreisComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Warenkatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Sortierkriterium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/WarenBezeichnungComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/WarenNummerComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/WarenPreisComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Warenkatalog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +64,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -49,7 +90,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_2",
+    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,11 +102,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_4" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_3" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_5" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_2" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_09_Uebungen_Collections\Aufgabe_4" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_09_Uebungen_Collections\Aufgabe_3" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_09_Uebungen_Collections\Aufgabe_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_00_Probeklausur_Light" />
@@ -89,7 +130,8 @@
       <workItem from="1689237017249" duration="2113000" />
       <workItem from="1689263200100" duration="10621000" />
       <workItem from="1689317593073" duration="32511000" />
-      <workItem from="1689866095043" duration="4429000" />
+      <workItem from="1689866095043" duration="6970000" />
+      <workItem from="1689968228872" duration="4508000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -175,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689921939218</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Generics Zoo">
+      <created>1689933317857</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689933317857</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +254,7 @@
     <MESSAGE value="_08_Uebungen_Zugriffsrechte_Exceptions" />
     <MESSAGE value="GenericsReferenz" />
     <MESSAGE value="Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
+    <MESSAGE value="Generics Zoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics Zoo" />
   </component>
 </project>
