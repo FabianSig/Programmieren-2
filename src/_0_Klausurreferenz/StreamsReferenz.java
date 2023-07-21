@@ -79,7 +79,7 @@ class StreamsReferenz {
         // 9. Stream rows from text file and save to List
         List<String> bands2 = Files.lines(Paths.get("bands.txt"))
                 .filter(x -> x.contains("jit"))
-                .collect(Collectors.toList());
+                .toList ();
         bands2.forEach(System.out::println);
         System.out.println ();
 

@@ -1,5 +1,9 @@
-package _11_Uebungen_Funktionales_und_IO.Aufgabe_d_e;
+package _11_Uebungen_Funktionales_und_IO.Aufgabe_3_a;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
@@ -42,7 +46,7 @@ class Warenkatalog  implements Iterable<Ware>{
         return this.katalog.size ();
     }
 
-    public Collection<Ware> alleWaren()
+    public List<Ware> alleWaren()
     {
         List<Ware> liste = new ArrayList<>(katalog.values());
 
@@ -73,6 +77,27 @@ class Warenkatalog  implements Iterable<Ware>{
 
     public boolean warenVorhanden(Predicate<Ware> bedingung){
         return this.katalog.values ().stream ().anyMatch (bedingung);
+    }
+
+    public Map<Warengruppe, Integer> anzahlWarenJeWarengruppe(){
+        return this.katalog.values ().stream ().collect(Collectors.groupingBy (Ware::getGruppe, Collectors.summingInt (w -> 1)));
+    }
+
+    public void save() throws IOException {
+        Path path = Paths.get (System.getProperty ("user.home"), "test.txt");
+        try{
+            Files.createFile (path);
+        }
+        catch(IOException e){
+            throw new IOException ("Fehler beim Erstellen der Datei");
+        }
+
+        List<String> output = new ArrayList<> ();
+
+        this.katalog.values ().forEach (w-> output.add(w.toString ()));
+
+        Files.write(path, output);
+
     }
 
     @Override

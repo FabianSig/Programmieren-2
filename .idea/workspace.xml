@@ -4,20 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Aufgabe 11">
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Bestellposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Bestellung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Kunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Kundenrabatt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Sortierkriterium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Ware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Warengruppe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Warenkatalog.java" afterDir="false" />
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Aufgabe 11 3 a">
+      <change afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/IO_Referenz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Sortierkriterium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Warengruppe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Warenkatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Sortierkriterium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Warengruppe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Warenkatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Sortierkriterium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Warengruppe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Warenkatalog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Warengruppe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Warengruppe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Warenkatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Warenkatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_0_Klausurreferenz/StreamsReferenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/StreamsReferenz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Bestellposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Bestellposition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Bestellung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Bestellung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Kunde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Kunde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Kundenrabatt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Kundenrabatt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Sortierkriterium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Sortierkriterium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Ware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Ware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Warengruppe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Warengruppe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Warenkatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Warenkatalog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +79,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e",
+    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,11 +91,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_3_b" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_3" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_2_f" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_d_e" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_2_c" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_2" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_1" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_00_Probeklausur_Light" />
@@ -94,7 +120,7 @@
       <workItem from="1689263200100" duration="10621000" />
       <workItem from="1689317593073" duration="32511000" />
       <workItem from="1689866095043" duration="6970000" />
-      <workItem from="1689968228872" duration="9557000" />
+      <workItem from="1689968228872" duration="13365000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -201,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689978261064</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Aufgabe 11 d,e">
+      <created>1689978892913</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1689978892913</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +267,8 @@
     <MESSAGE value="Generics Zoo" />
     <MESSAGE value="Aufgabe 10" />
     <MESSAGE value="Aufgabe 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 11" />
+    <MESSAGE value="Aufgabe 11 d,e" />
+    <MESSAGE value="Aufgabe 11 3 a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 11 3 a" />
   </component>
 </project>

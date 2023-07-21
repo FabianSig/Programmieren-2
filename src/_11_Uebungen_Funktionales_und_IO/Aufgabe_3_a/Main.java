@@ -1,8 +1,10 @@
-package _11_Uebungen_Funktionales_und_IO.Aufgabe_d_e;
+package _11_Uebungen_Funktionales_und_IO.Aufgabe_3_a;
+
+import java.io.IOException;
 
 class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         Warenkatalog katalog = new Warenkatalog();
         Ware w;
@@ -31,17 +33,6 @@ class Main {
         w = new Ware("03073105", "Ersatzkette", 7.45, Warengruppe.FAHRRADBEDARF);
         katalog.fuegeWareEin(w);
 
-        System.out.println();
-        System.out.println("Nur die Bezeichnungen");
-
-        for (String bezeichnung : katalog.WarenNachBezeichnung ())
-        {
-            System.out.println(bezeichnung);
-        }
-
-        System.out.println();
-        System.out.println(katalog.warenVorhanden(ware -> ware.getPreis() > 18.0));
-
+        katalog.save();
     }
-
 }
