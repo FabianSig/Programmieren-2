@@ -4,28 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Generics Zoo">
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_b/Bestellposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_b/Bestellung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_b/Kunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_b/Kundenrabatt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_b/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_b/Sortierkriterium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_b/Ware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_b/Warenkatalog.java" afterDir="false" />
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Aufgabe 10">
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/11 Uebungen Funktionales und IO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_1/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_1/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_1/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_1/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_1/Sortierkriterium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_1/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_1/Warenkatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Sortierkriterium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Warengruppe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_a_b/Warenkatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Bestellposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Bestellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Kundenrabatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Sortierkriterium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Warengruppe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c/Warenkatalog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Warenkatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_3/Warenkatalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Bestellposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_a/Bestellposition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Bestellung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_a/Bestellung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Kunde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_a/Kunde.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Kundenrabatt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_a/Kundenrabatt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_a/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Sortierkriterium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_a/Sortierkriterium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Ware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_a/Ware.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/WarenBezeichnungComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/WarenNummerComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/WarenPreisComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4/Warenkatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_a/Warenkatalog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -61,7 +68,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_10_Uebungen_Generics_Enums_Innere_Klassen/Aufgabe_4_c",
+    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_c",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,11 +80,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_2_c" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_2" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_1" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_4_c" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_4" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_3" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_5" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_10_Uebungen_Generics_Enums_Innere_Klassen\Aufgabe_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_00_Probeklausur_Light" />
@@ -102,7 +109,7 @@
       <workItem from="1689263200100" duration="10621000" />
       <workItem from="1689317593073" duration="32511000" />
       <workItem from="1689866095043" duration="6970000" />
-      <workItem from="1689968228872" duration="6206000" />
+      <workItem from="1689968228872" duration="8920000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -195,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689933317857</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Aufgabe 10">
+      <created>1689975674360</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1689975674360</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +240,7 @@
     <MESSAGE value="GenericsReferenz" />
     <MESSAGE value="Collections" />
     <MESSAGE value="Generics Zoo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics Zoo" />
+    <MESSAGE value="Aufgabe 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 10" />
   </component>
 </project>
