@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Aufgabe 11 3 a">
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Aufgabe 11 3 b,c">
       <change afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/IO_Referenz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Bestellposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Bestellung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Kunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Kundenrabatt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Sortierkriterium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Ware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Warengruppe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_f/Warenkatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Bestellposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Bestellung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Kunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Kundenrabatt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Sortierkriterium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Ware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Warengruppe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_a/Warenkatalog.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Bestellposition.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Bestellung.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Kunde.java" afterDir="false" />
@@ -33,17 +15,6 @@
       <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Ware.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Warengruppe.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b_c/Warenkatalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_0_Klausurreferenz/StreamsReferenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/StreamsReferenz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Bestellposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Bestellposition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Bestellung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Bestellung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Kunde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Kunde.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Kundenrabatt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Kundenrabatt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Sortierkriterium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Sortierkriterium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Ware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Ware.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Warengruppe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Warengruppe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_d_e/Warenkatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_2_d_e/Warenkatalog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +91,7 @@
       <workItem from="1689263200100" duration="10621000" />
       <workItem from="1689317593073" duration="32511000" />
       <workItem from="1689866095043" duration="6970000" />
-      <workItem from="1689968228872" duration="13365000" />
+      <workItem from="1689968228872" duration="13534000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -234,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689978892913</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Aufgabe 11 3 b,c">
+      <created>1689982823825</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1689982823825</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +247,7 @@
     <MESSAGE value="Aufgabe 11" />
     <MESSAGE value="Aufgabe 11 d,e" />
     <MESSAGE value="Aufgabe 11 3 a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 11 3 a" />
+    <MESSAGE value="Aufgabe 11 3 b,c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 11 3 b,c" />
   </component>
 </project>
