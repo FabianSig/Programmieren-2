@@ -17,4 +17,9 @@ public class Film {
     public int getLeange() {
         return leange;
     }
+
+    @Override
+    public String toString() {
+        return String.format ("%25s : %3d Minuten", name, leange);
+    }
 }
