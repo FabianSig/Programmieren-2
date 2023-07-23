@@ -8,31 +8,25 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.List;
 
 class Main {
 
     public static void main(String[] args) throws IOException {
-
-    }
-
-    public static void reinschreiben(Person... person) {
-        Path path = Paths.get("personen.txt");
+        Path path = Paths.get("test.txt");
 
         try {
-            if (Files.notExists(path)) {
-                Files.createFile(path);
+            List<String> content = Files.readAllLines(path);
+            Collections.shuffle (content);
+            for (String s: content) {
+                System.out.println (s);
+                System.out.println ("\n\n\n\n\n\n\n\n\n");
             }
-
-            BufferedWriter writer = Files.newBufferedWriter(path);
-
-            for (Person value : person) {
-                writer.append (value.toString ());
-            }
-
-            writer.close();
-
-        } catch(IOException e) {
-            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace ();
         }
     }
+
 }
