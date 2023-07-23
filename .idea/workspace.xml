@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="io referenz">
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/Adresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/ElektronischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/PostalischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/Adresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/ElektronischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/PostalischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/Adresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/DateiErsteller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/ElektronischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/PostalischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/Adresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/DateiErsteller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/ElektronischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/PostalischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Adresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Analytics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/DateiErsteller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/ElektronischeAdresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/PostalischeAdresse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Analytics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Analytics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +89,7 @@
       <workItem from="1689866095043" duration="6970000" />
       <workItem from="1689968228872" duration="13534000" />
       <workItem from="1690011924254" duration="5095000" />
-      <workItem from="1690125961832" duration="5638000" />
+      <workItem from="1690125961832" duration="6891000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
