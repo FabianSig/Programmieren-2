@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="Aufgabe 11 4">
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="io referenz">
+      <change afterPath="$PROJECT_DIR$/src/_000_TestCode/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Film.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Kino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Kino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_Probeklausur_Light/KinoDateiUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/KinoDateiUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_Probeklausur_Light/KinoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/KinoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_Probeklausur_Light/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_Probeklausur_Light/UML.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/UML.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bands.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_000_TestCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_TestCode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_0_Klausurreferenz/IO_Referenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/IO_Referenz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,7 @@
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_000_TestCode" />
       <recent name="_09_Uebungen_Collections.Aufgabe_3" />
     </key>
   </component>
@@ -90,7 +89,8 @@
       <workItem from="1689317593073" duration="32511000" />
       <workItem from="1689866095043" duration="6970000" />
       <workItem from="1689968228872" duration="13534000" />
-      <workItem from="1690011924254" duration="3852000" />
+      <workItem from="1690011924254" duration="5095000" />
+      <workItem from="1690125961832" duration="2102000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -218,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690014003360</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Probeklausur">
+      <created>1690023761674</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1690023761674</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +262,8 @@
     <MESSAGE value="Aufgabe 11 3 a" />
     <MESSAGE value="Aufgabe 11 3 b,c" />
     <MESSAGE value="Aufgabe 11 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 11 4" />
+    <MESSAGE value="Probeklausur" />
+    <MESSAGE value="io referenz" />
+    <option name="LAST_COMMIT_MESSAGE" value="io referenz" />
   </component>
 </project>
