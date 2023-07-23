@@ -21,8 +21,7 @@ class Main {
             List<String> content = Files.readAllLines(path);
             Collections.shuffle (content);
             for (String s: content) {
-                System.out.println (s);
-                System.out.println ("\n\n\n\n\n\n\n\n\n");
+                System.out.println (s + "\n\n\n\n\n\n\n\n\n");
             }
         } catch (IOException e) {
             e.printStackTrace ();
