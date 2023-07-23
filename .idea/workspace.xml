@@ -5,11 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="io referenz">
-      <change afterPath="$PROJECT_DIR$/src/_000_TestCode/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/Adresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/ElektronischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/A/PostalischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/Adresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/ElektronischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/B/PostalischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/Adresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/DateiErsteller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/ElektronischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/C/PostalischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/Adresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/DateiErsteller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/ElektronischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/D/PostalischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Adresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Analytics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/DateiErsteller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/ElektronischeAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0000_Einstufungstest/E/PostalischeAdresse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bands.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_000_TestCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_TestCode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_0_Klausurreferenz/IO_Referenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_0_Klausurreferenz/IO_Referenz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,30 +64,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/AZ_DATEN/GitHub/Programmieren 2/src/_11_Uebungen_Funktionales_und_IO/Aufgabe_3_b&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_0000_Einstufungstest/E",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_0000_Einstufungstest\E" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_0000_Einstufungstest\D" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_0000_Einstufungstest\C" />
+      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_0000_Einstufungstest\B" />
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_3_b" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_3" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_2_f" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_d_e" />
-      <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_11_Uebungen_Funktionales_und_IO\Aufgabe_2_c" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\AZ_DATEN\GitHub\Programmieren 2\src\_0_Klausurreferenz" />
@@ -90,7 +116,7 @@
       <workItem from="1689866095043" duration="6970000" />
       <workItem from="1689968228872" duration="13534000" />
       <workItem from="1690011924254" duration="5095000" />
-      <workItem from="1690125961832" duration="2102000" />
+      <workItem from="1690125961832" duration="5638000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -225,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690023761674</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="io referenz">
+      <created>1690128769855</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1690128769855</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
