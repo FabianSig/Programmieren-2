@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ÈÒ«ûÿÿÿÿ8Š›ä‰•1
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(·‡Ú‚úÿÿÿÿ8Ç£å‰•1
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(·‡Ú‚úÿÿÿÿ8š›ä‰•1
+]	java:S125&"<This block of commented-out lines of code should be removed.(Ð˜¹¹úÿÿÿÿ8®›ä‰•1
+o
+java:S6204+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥8®›ä‰•1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Þƒè‰•1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8Þƒè‰•1

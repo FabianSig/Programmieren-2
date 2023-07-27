@@ -1,0 +1,19 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ÈÒ«ûÿÿÿÿ8ê°ùˆ•1
+m
+java:S3008"PRename this field "Daten" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¹8ú°ùˆ•1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Äî‰´ûÿÿÿÿ8ı°ùˆ•1
+G
+java:S1197"*Move the array designators [] to the type.(äÈ˜8±ùˆ•1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€Ó½8…±ùˆ•1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¤öã8†±ùˆ•1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥ñ¾Ôıÿÿÿÿ8†±ùˆ•1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§îÛÁ8‡±ùˆ•1
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Ãöñ58‡±ùˆ•1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ƒ»Üƒùÿÿÿÿ8‰±ùˆ•1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÆÎ¹÷úÿÿÿÿ8Š±ùˆ•1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8²—ûˆ•1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8²—ûˆ•1

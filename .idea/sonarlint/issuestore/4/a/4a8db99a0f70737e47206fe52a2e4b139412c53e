@@ -1,0 +1,46 @@
+
+k
+java:S1192Q"IDefine a constant instead of duplicating this literal "data.txt" 3 times.(Ü”¡çûÿÿÿÿ8š¼´‰•1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“×´¼ıÿÿÿÿ8Ÿ¼´‰•1
+f
+java:S2095J"DUse try-with-resources or close this "Stream" in a "finally" clause.(ş»ºõüÿÿÿÿ8ê¼´‰•1
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ8ë¼´‰•1
+Y
+java:S1854f"7Remove this useless assignment to local variable "map".(¼¥ğ»úÿÿÿÿ8ğ¼´‰•1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬èø´8õ¼´‰•1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8õ¼´‰•1
+`
+java:S1612">Replace this lambda with method reference 'System.out::print'.(æÌá§ùÿÿÿÿ8÷¼´‰•1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æÌá§ùÿÿÿÿ8ø¼´‰•1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ø¼´‰•1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ù¼´‰•1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ú¼´‰•1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ8û¼´‰•1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ü¼´‰•1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ş¼´‰•1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ş¼´‰•1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ8ÿ¼´‰•1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8€½´‰•1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8‚½´‰•1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8„½´‰•1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8‡½´‰•1
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Œ½´‰•1
+o
+java:S6204L"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ˆ½´‰•1
+b
+java:S1612M"@Replace this lambda with method reference 'System.out::println'.(ÅƒÚ…üÿÿÿÿ8Œ½´‰•1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ÅƒÚ…üÿÿÿÿ8‘½´‰•1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8˜½´‰•1
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(“œÉ8¤½´‰•1
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¦½´‰•1
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(ÑòÄ¼ÿÿÿÿÿ8¨½´‰•1
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ô¥µ‰•1
+V
+java:S2864o"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ8¢½´‰•1
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(­ëîøÿÿÿÿ8Ô¸‰•1
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŸÔ¸‰•1
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(°°àü8¢Ô¸‰•1
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8£Ô¸‰•1
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(¥Î¶›úÿÿÿÿ8¥Ô¸‰•1
+]	java:S125}"<This block of commented-out lines of code should be removed.(¥Î¶›úÿÿÿÿ8‹ùÕ‰•1

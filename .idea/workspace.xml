@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="marketing">
+    <list default="true" id="f05780a2-602d-4e50-975a-6a55e2e1aa71" name="Changes" comment="pole">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_000_TestCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_TestCode/Main.java" afterDir="false" />
     </list>
@@ -43,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AZ_DATEN/GitHub/Programmieren 2/src/_0000_Einstufungstest/E",
+    "last_opened_file_path": "C:/Users/uadytz5/Desktop/Prog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,7 +88,11 @@
       <workItem from="1689866095043" duration="6970000" />
       <workItem from="1689968228872" duration="13534000" />
       <workItem from="1690011924254" duration="5095000" />
-      <workItem from="1690125961832" duration="11308000" />
+      <workItem from="1690125961832" duration="12738000" />
+      <workItem from="1690203862490" duration="65000" />
+      <workItem from="1690216862365" duration="2267000" />
+      <workItem from="1690378682147" duration="946000" />
+      <workItem from="1690457841747" duration="5289000" />
     </task>
     <task id="LOCAL-00001" summary="01 Uebungen Einfuehrung">
       <created>1688993312714</created>
@@ -244,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690137442986</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="pole">
+      <created>1690139529725</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1690139529725</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +296,7 @@
     <MESSAGE value="io referenz" />
     <MESSAGE value="Einstufungstest" />
     <MESSAGE value="marketing" />
-    <option name="LAST_COMMIT_MESSAGE" value="marketing" />
+    <MESSAGE value="pole" />
+    <option name="LAST_COMMIT_MESSAGE" value="pole" />
   </component>
 </project>
